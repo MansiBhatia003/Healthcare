@@ -1,13 +1,13 @@
 # This is my application for project submission.
 
 ###Dashboard
-![dashboard](screenshots/dashboard.png)
+![dashboard](dashboard.png)
 
 ###Login
-![login](screenshots/login.png)
+![login](login.png)
 
 ###SignUp
-![sign](screenshots/sign.png)
+![sign](sign.png)
 
 Here, I have created application according to the requirements that was mentioned on the site.
 
